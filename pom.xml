@@ -23,6 +23,7 @@
         <module>cloud-gateway-gateway-9527</module>
         <module>cloud-config-center-3344</module>
         <module>cloud-stream-rabbitmq-provider-8801</module>
+        <module>cloudalibaba-provider-payment-9001</module>
     </modules>
     <packaging>pom</packaging>
 
